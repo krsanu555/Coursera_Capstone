@@ -1,15 +1,17 @@
 #Opening New Bar in Delhi,India
+
 The objective of this project is to help project developers in selecting the best locations in Delhi to open a new bar.
 
 
 ###Project description
+
 Basically this project will provide answer to this Business Problem:-
 If someone wants to open a new bar in Delhi, the capital of India, where they should open?
 
 The project includes:-
-- [Report]()
-- [Notebook]()
-- [Presentation]()
+- [Report](https://github.com/krsanu555/Coursera_Capstone/blob/master/Opening_New_Bar_Delhi_Report.pdf)
+- [Notebook](https://github.com/krsanu555/Coursera_Capstone/blob/master/Opening-New-Bar-in-Delhi.ipynb)
+- [Presentation](https://github.com/krsanu555/Coursera_Capstone/blob/master/Opening_New_Bar_Delhi_Presentation.pdf)
 
 ### Set up
 1. Clone the repository
