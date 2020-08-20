@@ -1,9 +1,9 @@
-#Opening New Bar in Delhi,India
+# Opening New Bar in Delhi,India
 
 The objective of this project is to help project developers in selecting the best locations in Delhi to open a new bar.
 
 
-###Project description
+### Project description
 
 Basically this project will provide answer to this Business Problem:-
 If someone wants to open a new bar in Delhi, the capital of India, where they should open?
