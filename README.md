@@ -36,10 +36,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 6. Run jupyter files you want
-  - Exploring venues in Chandigarh.ipynb
-  - Clustering on Toronto.ipynb
-  - Getting coordinates.ipynb
-  - Data Collection.ipynb
+  - Opening-New-Bar-in-Delhi.ipynb
+  - segmenting-and-clustering-neighborhoods-in-toronto.ipynb
+  
 7. Deactivate environment (if created and activated before)
 ```
 deactivate
